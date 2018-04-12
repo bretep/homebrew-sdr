@@ -1,8 +1,7 @@
 class GrOp25 < Formula
   homepage "http://op25.osmocom.org/trac/wiki"
   head "https://git.osmocom.org/op25"
-
-  patch :DATA
+  
 
   depends_on "cmake" => :build
   depends_on "gnuradio"
