@@ -1,6 +1,6 @@
 class GrOp25 < Formula
   homepage "http://op25.osmocom.org/trac/wiki"
-  head "git://op25.osmocom.org/op25.git"
+  head "https://git.osmocom.org/op25"
 
   patch :DATA
 
